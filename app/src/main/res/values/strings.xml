@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Resident Evil 6</string>
+    <string name="title_activity_main2">Personajes</string>
+    <string name="title_home">Leon</string>
+    <string name="title_dashboard">Chris</string>
+    <string name="title_notifications">Jake</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">VOLVER</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_scrolling">Historia</string>
+    <string name="large_text">
+        "Entre el año 2012 y 2013, el presidente de los Estados Unidos, Adam Benford, ha decidido revelar oficialmente la verdad sobre el incidente de Raccoon City en 1998, creyendo que va a frenar de alguna manera un posible ataque bioterrorista.Pero cuando el lugar es atacado por zombis, Leon S. Kennedy, amigo personal del presidente y superviviente al desastre en Raccoon City, se adentrará en el primer capítulo de esta entrega tomando una decisión muy dura, junto a su nueva compañera Helena Harper quien de alguna forma participó en la muerte del presidente ya que esta le apuntaba con su arma mientras el presidente trata de atacar a Leon.
+
+Mientras avanza la historia, Leon se ve obligado a enfrentarse al presidente, quien se ha infectado de un extraño virus similar al de otros títulos de la franquicia. El protagonista deberá tomar una de las decisiones más difíciles de la saga, la cual es asesinar al presidente. Mientras tanto, en los Balcanes, Jake Muller, el hijo del fallecido investigador de la corporación Umbrella e internacional bioterrorista, Albert Wesker, huye de las autoridades durante un ataque de esta índole. La aventura de Jake será acompañada por Sherry Birkin, hija de William Birkin, salvada por Leon y Claire en Resident Evil 2 cuando solo era una niña. Al mismo tiempo, el miembro de la BSAA, Chris Redfield, quien tiene problemas de memoria, va recuperando a medida que avanza la historia-, bloqueada por la pérdida de sus hombres a quienes nombra en distintas partes de su aventura, ahora está acompañado del novicio Piers Nivans. Ambos llegan a una ciudad ficticia de China, Tatchi (basada en Hong Kong), que a su vez está bajo la amenaza de un ataque bioterrorista.Con ningún país a salvo de estos ataques, la población del mundo entero está unida por un temor del que no hay esperanza.
+
+Ada Wong, aparecerá esta vez ante Chris Redfield como la causante del brote en China, según Derek Simmons. Aunque también será la protagonista de la cuarta campaña. Asimismo, Chris cambiará su personalidad cuando se entere de algo que lo volverá aún más pesimista.​Peor aún, confrontará el hecho de ver morir a su nuevo camarada, Piers Nivans.
+
+En la campaña mencionada, se revela que la Ada que interactuaba con Chris y Piers era en realidad un clon, una científica llamada Carla Radamés, y que la verdadera estaba ayudando a Leon y Sherry, mientras en ese momento destruía el laboratorio Neo-Umbrella en Langshiang. Aunque se presumía muerta, Carla trata un último ataque contra la verdadera Ada, después de haberse inyectado a sí misma con una fuerte dosis del Virus C, pero es derrotada aparentemente. Durante la batalla entre Leon y Helena contra Simmons, Ada llega al laboratorio ya mencionado y lo destruye todo. A continuación, recibe una llamada de alguien con una misión. La acepta, diciendo "Mi itinerario se acaba de limpiar". Entretanto, Leon y Helena borran sus datos en el Servicio (ya que figuran como responsables de la muerte del Presidente por orden de Simmons, quien utilizó a Helena para vulnerar la seguridad de este, secuestrando a su hermana), Jake baja el precio de su sangre a $ 50 desde su precio original de $ 50.000.000 y sigue con su nueva vida, Chris continúa siendo un capitán de la BSAA, venciendo su culpabilidad. En una escena post-créditos de la campaña de Jake Muller, la historia cambia a un país subdesarrollado en algún lugar, con un niño atrapado en una casa por B.O.W.s. Donde Jake le pregunta si tiene su paga, recibiendo una manzana como respuesta. Tras su paga, sale a la calle para defender al muchacho de las enormes criaturas atacantes.
+"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
